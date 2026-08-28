@@ -1,0 +1,5 @@
+#tipos de datos que pueden aparecer en un input(entrada de datos de usuario)  
+cadena = input("introduce un nombre de usuario")
+edad = int(input("edad del usuario"))
+meses =float(input("hace cuantos meses tienes",))
+print("el usuario"+cadena,"tiene",edad,"años de edad","con",meses,"meses")
