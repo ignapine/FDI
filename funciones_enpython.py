@@ -7,8 +7,9 @@
 #primt("la suma de 10 mas 10 es" +(resultado))
 #
 
-
-import math
+import math as math
+import numpy as NP 
+import pandas as pn
 
 area =float(input("dame un valor del area"))
 
