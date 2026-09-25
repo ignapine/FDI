@@ -79,5 +79,3 @@ elif costo_contrato >=1000 and categoria == "A" or categoria == "a" and cant_gol
 
 if costo_contrato >10000000000 and categoria == "A" or categoria == "a" and cant_goles <= (90):
     print("es messi,CONTRATAR")
-
-    
